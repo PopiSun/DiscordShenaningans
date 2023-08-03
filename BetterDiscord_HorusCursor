@@ -3,7 +3,7 @@
 .modeDefault-2fEh7a,
 .container-ZMc96U,
 .titleBar-1it3bQ {
-	cursor: url('https://buns.gay/YoRHA-UI-BetterDiscord/assets/cursors/Hack_Normal_Select_v2.cur'),
+	cursor: url('https://github.com/PopiSun/DiscordShenaningans/blob/a9955028ee5f4ef2e3941a39cac269981e0e00fc/Horus_Default.cur'),
 		default !important;
 }
 
@@ -13,7 +13,7 @@
 textarea,
 .textAreaSlate-9-y-k2 div div,
 input {
-	cursor: url('https://buns.gay/YoRHA-UI-BetterDiscord/assets/cursors/Hack_Text_Select_v2.cur'),
+	cursor: url('https://github.com/PopiSun/DiscordShenaningans/blob/a9955028ee5f4ef2e3941a39cac269981e0e00fc/Horus_Select.cur'),
 		default !important;
 }
 
